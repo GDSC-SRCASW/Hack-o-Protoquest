@@ -4,21 +4,28 @@ Hack-o-protoquest is a platform that allows students to turn their ideas into re
 More information at [gdscsrcasw.live](https://www.gdscsrcasw.live/hack-o-protoquest/)
 
 ## How To Use
-To clone and submit your prototype, you'll need [Git](https://git-scm.com/) and Latest Version of any web browser installed on your computer.
+To submit your prototype through your repo on GitHub, you'll need [Git](https://git-scm.com/) and Latest Version of any web browser installed on your computer.
 
-      # Clone this repository
-      $ git 
-
-      # Go into the repository
-      $ cd Hack-o-Protoquest
-
-      # Create a branch
-      # create a branch by the name of your team
+      # Fork this repo using FORK button on top-right
+      
+      # Go to the forked repo
+      
+      # Click on the CODE button and Copy the https link
+      
+      # Go to Git Bash
 
 ## Contribute
 
-1. Fork this repository.
-2. Clone the repository.
-3. Develop and test your changes.
-4. Commit your changes and make sure your commit message clearly describe your changes.
-5. Send a pull request.
+### Step 1: Fork this repository.
+   ![Fork button](https://github.com/MBtions/New/blob/master/fork.png?raw=true)
+
+### Step 2: Go to your repository.
+Your repository will look like this: **{your-username}/Hack-o-Protoquest**
+   ![your repository](https://github.com/MBtions/New/blob/master/your-repository.png?raw=true)
+   
+### Step 3: Copy the link to YOUR repo
+Now, on your repo page, click the CODE button and copy the https link.
+   ![Click on Code button and copy https link to your repo](https://github.com/MBtions/New/blob/master/click%20on%20code%20and%20copy%20the%20link%20to%20your%20repo.png?raw=true)
+
+### Step 4: Go to your Bash
+
